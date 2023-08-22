@@ -9,7 +9,6 @@ const Player = () => {
             controls={true}
             width='60%'
             height='60%'
-
             autoPlay={true}
         />
     );
